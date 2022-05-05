@@ -12,7 +12,7 @@ DeepLab is a state-of-art deep learning model for semantic image segmentation, w
 **
 How to Run the code ?**
 
-the code is attached to this repository and you can open the code and run it in collab or jupyter. 
+the code is attached to this repository and you can open the code in google collab and run the code
 In the last cell of the code there is an option to give input image URl, use any image from internet and paste its URL over there, so you can see the output as which type of object is there in the image
 
 some sample image links :
