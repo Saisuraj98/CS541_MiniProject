@@ -9,3 +9,16 @@ This project is flexible to implement on many datasets, but I have choose to imp
 
 DeepLab is a state-of-art deep learning model for semantic image segmentation, where the goal is to assign semantic labels (e.g., person, dog, cat and so on) to every pixel in the input image. 
 
+**
+How to Run the code ?**
+
+the code is attached to this repository and you can open the code and run it in collab or jupyter. 
+In the last cell of the code there is an option to give input image URl, use any image from internet and paste its URL over there, so you can see the output as which type of object is there in the image
+
+some sample image links :
+
+https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png
+
+https://upload.wikimedia.org/wikipedia/commons/1/11/2016_Fiat_Ducato_42_Maxi_West_Midlands_Ambulance_Service_3.0.jpg
+
+https://cdn.parkrecord.com/wp-content/uploads/sites/11/2020/07/missingboy-tpr-070420-1.jpg
